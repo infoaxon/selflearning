@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../eclipse-workspace/LatestManipalCigna"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
