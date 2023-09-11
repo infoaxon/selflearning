@@ -1,0 +1,4 @@
+# Ignore commit to files dont need in repos
+*zip
+images/
+media/
