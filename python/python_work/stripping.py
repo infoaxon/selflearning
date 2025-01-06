@@ -12,3 +12,25 @@ print(full_name)
 first_name = first_name.rstrip()
 full_name = f"{first_name} {second_name}"
 print(full_name)
+
+# Now removing spaces from the Left side of the string
+
+first_name = " Shubham"
+second_name = " Nagar"
+full_name = f"{first_name} {second_name}"
+print(full_name)
+first_name = first_name.lstrip()
+full_name = f"{first_name} {second_name}"
+print(full_name)
+
+# Now removing spaces from either side
+print("Now removing the spaces from either side")
+first_name = " Shubham "
+second_name = " Nagar"
+full_name = f"{first_name} {second_name}"
+print(full_name)
+first_name = first_name.strip()
+full_name = f"{first_name} {second_name}"
+print(full_name)
+
+
